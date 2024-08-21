@@ -22,7 +22,7 @@ list_files = [      #used for CI/CD deploytment
     "main.py",
     "Dockerfile",
     "requirements.txt",      
-    "setup.py"
+    "setup.py",
     "research/trials.ipynb"
 ]
 
